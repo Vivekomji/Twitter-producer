@@ -1,0 +1,867 @@
+[2022-05-13 03:38:56,771] {processor.py:153} INFO - Started process (PID=179) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:38:56,772] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 03:38:56,774] {logging_mixin.py:115} INFO - [2022-05-13 03:38:56,774] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:38:56,805] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:38:56,829] {logging_mixin.py:115} INFO - [2022-05-13 03:38:56,829] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 03:38:56,947] {logging_mixin.py:115} INFO - [2022-05-13 03:38:56,947] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 03:38:56,971] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.203 seconds
+[2022-05-13 03:39:27,687] {processor.py:153} INFO - Started process (PID=463) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:39:27,692] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 03:39:27,695] {logging_mixin.py:115} INFO - [2022-05-13 03:39:27,695] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:39:27,714] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:39:27,744] {logging_mixin.py:115} INFO - [2022-05-13 03:39:27,744] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 03:39:27,774] {logging_mixin.py:115} INFO - [2022-05-13 03:39:27,774] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 03:39:27,786] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.100 seconds
+[2022-05-13 03:39:57,925] {processor.py:153} INFO - Started process (PID=850) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:39:57,928] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 03:39:57,929] {logging_mixin.py:115} INFO - [2022-05-13 03:39:57,929] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:39:57,952] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:39:57,968] {logging_mixin.py:115} INFO - [2022-05-13 03:39:57,968] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 03:39:57,982] {logging_mixin.py:115} INFO - [2022-05-13 03:39:57,982] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 03:39:57,990] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.067 seconds
+[2022-05-13 03:40:28,726] {processor.py:153} INFO - Started process (PID=1070) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:40:28,729] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 03:40:28,731] {logging_mixin.py:115} INFO - [2022-05-13 03:40:28,730] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:40:28,794] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:40:28,837] {logging_mixin.py:115} INFO - [2022-05-13 03:40:28,836] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 03:40:28,854] {logging_mixin.py:115} INFO - [2022-05-13 03:40:28,854] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 03:40:28,867] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.143 seconds
+[2022-05-13 03:40:59,061] {processor.py:153} INFO - Started process (PID=1494) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:40:59,064] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 03:40:59,066] {logging_mixin.py:115} INFO - [2022-05-13 03:40:59,066] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:40:59,089] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:40:59,111] {logging_mixin.py:115} INFO - [2022-05-13 03:40:59,111] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 03:40:59,128] {logging_mixin.py:115} INFO - [2022-05-13 03:40:59,128] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 03:40:59,137] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.079 seconds
+[2022-05-13 03:41:29,206] {processor.py:153} INFO - Started process (PID=1709) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:41:29,208] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 03:41:29,209] {logging_mixin.py:115} INFO - [2022-05-13 03:41:29,209] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:41:29,227] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:41:29,243] {logging_mixin.py:115} INFO - [2022-05-13 03:41:29,243] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 03:41:29,257] {logging_mixin.py:115} INFO - [2022-05-13 03:41:29,257] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 03:41:29,264] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.060 seconds
+[2022-05-13 03:42:00,301] {processor.py:153} INFO - Started process (PID=1947) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:42:00,302] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 03:42:00,304] {logging_mixin.py:115} INFO - [2022-05-13 03:42:00,304] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:42:00,328] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:42:00,344] {logging_mixin.py:115} INFO - [2022-05-13 03:42:00,344] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 03:42:00,357] {logging_mixin.py:115} INFO - [2022-05-13 03:42:00,357] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 03:42:00,364] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.065 seconds
+[2022-05-13 03:42:31,313] {processor.py:153} INFO - Started process (PID=2162) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:42:31,314] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 03:42:31,316] {logging_mixin.py:115} INFO - [2022-05-13 03:42:31,316] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:42:31,335] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:42:31,357] {logging_mixin.py:115} INFO - [2022-05-13 03:42:31,357] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 03:42:31,373] {logging_mixin.py:115} INFO - [2022-05-13 03:42:31,373] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 03:42:31,386] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.075 seconds
+[2022-05-13 03:43:02,506] {processor.py:153} INFO - Started process (PID=2384) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:43:02,512] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 03:43:02,517] {logging_mixin.py:115} INFO - [2022-05-13 03:43:02,517] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:43:02,603] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:43:02,693] {logging_mixin.py:115} INFO - [2022-05-13 03:43:02,692] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 03:43:03,632] {logging_mixin.py:115} INFO - [2022-05-13 03:43:03,632] {process_utils.py:240} INFO - Waiting up to 5 seconds for processes to exit...
+[2022-05-13 03:59:29,910] {processor.py:153} INFO - Started process (PID=177) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:59:29,929] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 03:59:29,930] {logging_mixin.py:115} INFO - [2022-05-13 03:59:29,930] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:59:29,953] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 03:59:29,972] {logging_mixin.py:115} INFO - [2022-05-13 03:59:29,972] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 03:59:29,989] {logging_mixin.py:115} INFO - [2022-05-13 03:59:29,989] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 03:59:30,003] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.096 seconds
+[2022-05-13 04:00:01,083] {processor.py:153} INFO - Started process (PID=394) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:00:01,085] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 04:00:01,087] {logging_mixin.py:115} INFO - [2022-05-13 04:00:01,087] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:00:01,102] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:00:01,118] {logging_mixin.py:115} INFO - [2022-05-13 04:00:01,118] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 04:00:01,130] {logging_mixin.py:115} INFO - [2022-05-13 04:00:01,130] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 04:00:01,136] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.055 seconds
+[2022-05-13 04:00:31,929] {processor.py:153} INFO - Started process (PID=682) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:00:31,930] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 04:00:31,931] {logging_mixin.py:115} INFO - [2022-05-13 04:00:31,931] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:00:31,946] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:00:31,961] {logging_mixin.py:115} INFO - [2022-05-13 04:00:31,961] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 04:00:31,973] {logging_mixin.py:115} INFO - [2022-05-13 04:00:31,973] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 04:00:31,979] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.052 seconds
+[2022-05-13 04:01:02,875] {processor.py:153} INFO - Started process (PID=966) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:01:02,876] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 04:01:02,876] {logging_mixin.py:115} INFO - [2022-05-13 04:01:02,876] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:01:02,894] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:01:02,909] {logging_mixin.py:115} INFO - [2022-05-13 04:01:02,909] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 04:01:02,922] {logging_mixin.py:115} INFO - [2022-05-13 04:01:02,922] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 04:01:02,928] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.056 seconds
+[2022-05-13 04:01:33,957] {processor.py:153} INFO - Started process (PID=1616) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:01:33,959] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 04:01:33,960] {logging_mixin.py:115} INFO - [2022-05-13 04:01:33,960] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:01:33,987] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:01:34,006] {logging_mixin.py:115} INFO - [2022-05-13 04:01:34,006] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 04:01:34,021] {logging_mixin.py:115} INFO - [2022-05-13 04:01:34,021] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 04:01:34,030] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.075 seconds
+[2022-05-13 04:02:04,236] {processor.py:153} INFO - Started process (PID=1855) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:02:04,237] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 04:02:04,238] {logging_mixin.py:115} INFO - [2022-05-13 04:02:04,238] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:02:04,256] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:02:04,272] {logging_mixin.py:115} INFO - [2022-05-13 04:02:04,272] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 04:02:04,284] {logging_mixin.py:115} INFO - [2022-05-13 04:02:04,283] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 04:02:04,290] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.056 seconds
+[2022-05-13 04:02:35,315] {processor.py:153} INFO - Started process (PID=2102) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:02:35,316] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 04:02:35,316] {logging_mixin.py:115} INFO - [2022-05-13 04:02:35,316] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:02:35,354] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:02:35,376] {logging_mixin.py:115} INFO - [2022-05-13 04:02:35,376] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 04:02:35,391] {logging_mixin.py:115} INFO - [2022-05-13 04:02:35,391] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 04:02:35,399] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.086 seconds
+[2022-05-13 04:03:05,895] {processor.py:153} INFO - Started process (PID=2510) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:03:05,896] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 04:03:05,897] {logging_mixin.py:115} INFO - [2022-05-13 04:03:05,897] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:03:05,912] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:03:05,929] {logging_mixin.py:115} INFO - [2022-05-13 04:03:05,929] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 04:03:05,942] {logging_mixin.py:115} INFO - [2022-05-13 04:03:05,942] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 04:03:05,949] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.056 seconds
+[2022-05-13 04:03:37,032] {processor.py:153} INFO - Started process (PID=2748) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:03:37,033] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 04:03:37,034] {logging_mixin.py:115} INFO - [2022-05-13 04:03:37,034] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:03:37,050] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 04:03:37,066] {logging_mixin.py:115} INFO - [2022-05-13 04:03:37,066] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 04:03:37,079] {logging_mixin.py:115} INFO - [2022-05-13 04:03:37,079] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 04:03:37,086] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.056 seconds
+[2022-05-13 06:14:11,878] {processor.py:153} INFO - Started process (PID=175) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 06:14:11,880] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 06:14:11,881] {logging_mixin.py:115} INFO - [2022-05-13 06:14:11,881] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 06:14:11,896] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 06:14:11,911] {logging_mixin.py:115} INFO - [2022-05-13 06:14:11,911] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 06:14:11,924] {logging_mixin.py:115} INFO - [2022-05-13 06:14:11,924] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 06:14:11,932] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.056 seconds
+[2022-05-13 06:14:42,881] {processor.py:153} INFO - Started process (PID=456) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 06:14:42,882] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 06:14:42,883] {logging_mixin.py:115} INFO - [2022-05-13 06:14:42,883] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 06:14:42,899] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 06:14:42,914] {logging_mixin.py:115} INFO - [2022-05-13 06:14:42,914] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 06:14:42,926] {logging_mixin.py:115} INFO - [2022-05-13 06:14:42,926] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 06:14:42,933] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.054 seconds
+[2022-05-13 06:15:13,819] {processor.py:153} INFO - Started process (PID=676) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 06:15:13,820] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 06:15:13,821] {logging_mixin.py:115} INFO - [2022-05-13 06:15:13,821] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 06:15:13,844] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 06:15:13,859] {logging_mixin.py:115} INFO - [2022-05-13 06:15:13,859] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 06:15:13,871] {logging_mixin.py:115} INFO - [2022-05-13 06:15:13,871] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 06:15:13,877] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.060 seconds
+[2022-05-13 06:15:44,853] {processor.py:153} INFO - Started process (PID=1061) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 06:15:44,854] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 06:15:44,855] {logging_mixin.py:115} INFO - [2022-05-13 06:15:44,855] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 06:15:44,885] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 06:15:44,901] {logging_mixin.py:115} INFO - [2022-05-13 06:15:44,901] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 06:15:44,914] {logging_mixin.py:115} INFO - [2022-05-13 06:15:44,914] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 06:15:44,923] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.073 seconds
+[2022-05-13 06:16:15,826] {processor.py:153} INFO - Started process (PID=1298) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 06:16:15,828] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 06:16:15,829] {logging_mixin.py:115} INFO - [2022-05-13 06:16:15,829] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 06:16:15,852] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 06:16:15,873] {logging_mixin.py:115} INFO - [2022-05-13 06:16:15,873] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 06:16:15,889] {logging_mixin.py:115} INFO - [2022-05-13 06:16:15,889] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 06:16:15,899] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.076 seconds
+[2022-05-13 07:26:24,412] {processor.py:153} INFO - Started process (PID=176) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:26:24,413] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 07:26:24,414] {logging_mixin.py:115} INFO - [2022-05-13 07:26:24,414] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:26:24,430] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:26:24,448] {logging_mixin.py:115} INFO - [2022-05-13 07:26:24,448] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 07:26:24,462] {logging_mixin.py:115} INFO - [2022-05-13 07:26:24,462] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 07:26:24,472] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.061 seconds
+[2022-05-13 07:26:55,409] {processor.py:153} INFO - Started process (PID=392) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:26:55,410] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 07:26:55,411] {logging_mixin.py:115} INFO - [2022-05-13 07:26:55,411] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:26:55,425] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:26:55,440] {logging_mixin.py:115} INFO - [2022-05-13 07:26:55,440] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 07:26:55,452] {logging_mixin.py:115} INFO - [2022-05-13 07:26:55,451] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 07:26:55,458] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.051 seconds
+[2022-05-13 07:27:26,152] {processor.py:153} INFO - Started process (PID=611) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:27:26,154] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 07:27:26,155] {logging_mixin.py:115} INFO - [2022-05-13 07:27:26,155] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:27:26,181] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:27:26,208] {logging_mixin.py:115} INFO - [2022-05-13 07:27:26,208] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 07:27:26,232] {logging_mixin.py:115} INFO - [2022-05-13 07:27:26,232] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 07:27:26,247] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.097 seconds
+[2022-05-13 07:27:56,639] {processor.py:153} INFO - Started process (PID=896) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:27:56,648] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 07:27:56,652] {logging_mixin.py:115} INFO - [2022-05-13 07:27:56,652] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:27:56,673] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:27:56,690] {logging_mixin.py:115} INFO - [2022-05-13 07:27:56,690] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 07:27:56,702] {logging_mixin.py:115} INFO - [2022-05-13 07:27:56,702] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 07:27:56,708] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.072 seconds
+[2022-05-13 07:28:27,533] {processor.py:153} INFO - Started process (PID=1271) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:28:27,534] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 07:28:27,535] {logging_mixin.py:115} INFO - [2022-05-13 07:28:27,535] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:28:27,554] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:28:27,570] {logging_mixin.py:115} INFO - [2022-05-13 07:28:27,570] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 07:28:27,584] {logging_mixin.py:115} INFO - [2022-05-13 07:28:27,584] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 07:28:27,591] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.060 seconds
+[2022-05-13 07:28:58,455] {processor.py:153} INFO - Started process (PID=1737) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:28:58,469] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 07:28:58,470] {logging_mixin.py:115} INFO - [2022-05-13 07:28:58,470] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:28:58,482] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:28:58,497] {logging_mixin.py:115} INFO - [2022-05-13 07:28:58,497] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 07:28:58,511] {logging_mixin.py:115} INFO - [2022-05-13 07:28:58,511] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 07:28:58,517] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.064 seconds
+[2022-05-13 07:29:29,302] {processor.py:153} INFO - Started process (PID=1957) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:29:29,303] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 07:29:29,305] {logging_mixin.py:115} INFO - [2022-05-13 07:29:29,305] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:29:29,316] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:29:29,332] {logging_mixin.py:115} INFO - [2022-05-13 07:29:29,332] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 07:29:29,345] {logging_mixin.py:115} INFO - [2022-05-13 07:29:29,345] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 07:29:29,353] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.058 seconds
+[2022-05-13 07:29:59,973] {processor.py:153} INFO - Started process (PID=2172) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:29:59,976] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 07:29:59,977] {logging_mixin.py:115} INFO - [2022-05-13 07:29:59,977] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:29:59,989] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:30:00,013] {logging_mixin.py:115} INFO - [2022-05-13 07:30:00,013] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 07:30:00,031] {logging_mixin.py:115} INFO - [2022-05-13 07:30:00,031] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 07:30:00,041] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.070 seconds
+[2022-05-13 07:30:30,851] {processor.py:153} INFO - Started process (PID=2408) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:30:30,853] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 07:30:30,854] {logging_mixin.py:115} INFO - [2022-05-13 07:30:30,854] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:30:30,864] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:30:30,880] {logging_mixin.py:115} INFO - [2022-05-13 07:30:30,880] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 07:30:30,892] {logging_mixin.py:115} INFO - [2022-05-13 07:30:30,892] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 07:30:30,898] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.049 seconds
+[2022-05-13 07:31:01,578] {processor.py:153} INFO - Started process (PID=2623) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:31:01,579] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 07:31:01,581] {logging_mixin.py:115} INFO - [2022-05-13 07:31:01,581] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:31:01,592] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:31:01,609] {logging_mixin.py:115} INFO - [2022-05-13 07:31:01,609] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 07:31:01,623] {logging_mixin.py:115} INFO - [2022-05-13 07:31:01,622] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 07:31:01,630] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.054 seconds
+[2022-05-13 07:31:32,341] {processor.py:153} INFO - Started process (PID=2838) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:31:32,344] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 07:31:32,345] {logging_mixin.py:115} INFO - [2022-05-13 07:31:32,345] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:31:32,358] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:31:32,374] {logging_mixin.py:115} INFO - [2022-05-13 07:31:32,374] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 07:31:32,388] {logging_mixin.py:115} INFO - [2022-05-13 07:31:32,388] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 07:31:32,396] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.057 seconds
+[2022-05-13 07:32:03,011] {processor.py:153} INFO - Started process (PID=3043) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:32:03,012] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 07:32:03,013] {logging_mixin.py:115} INFO - [2022-05-13 07:32:03,013] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:32:03,025] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:32:03,041] {logging_mixin.py:115} INFO - [2022-05-13 07:32:03,041] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 07:32:03,055] {logging_mixin.py:115} INFO - [2022-05-13 07:32:03,055] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 07:32:03,063] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.055 seconds
+[2022-05-13 07:32:33,821] {processor.py:153} INFO - Started process (PID=3258) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:32:33,822] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 07:32:33,823] {logging_mixin.py:115} INFO - [2022-05-13 07:32:33,823] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:32:33,835] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:32:33,851] {logging_mixin.py:115} INFO - [2022-05-13 07:32:33,851] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 07:32:33,865] {logging_mixin.py:115} INFO - [2022-05-13 07:32:33,865] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 07:32:33,873] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.054 seconds
+[2022-05-13 07:33:04,497] {processor.py:153} INFO - Started process (PID=3474) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:33:04,498] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 07:33:04,499] {logging_mixin.py:115} INFO - [2022-05-13 07:33:04,499] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:33:04,512] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:33:04,527] {logging_mixin.py:115} INFO - [2022-05-13 07:33:04,527] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 07:33:04,540] {logging_mixin.py:115} INFO - [2022-05-13 07:33:04,540] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 07:33:04,546] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.051 seconds
+[2022-05-13 07:33:35,211] {processor.py:153} INFO - Started process (PID=3691) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:33:35,213] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 07:33:35,214] {logging_mixin.py:115} INFO - [2022-05-13 07:33:35,214] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:33:35,224] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:33:35,240] {logging_mixin.py:115} INFO - [2022-05-13 07:33:35,239] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 07:33:35,251] {logging_mixin.py:115} INFO - [2022-05-13 07:33:35,251] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 07:33:35,258] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.048 seconds
+[2022-05-13 07:34:05,848] {processor.py:153} INFO - Started process (PID=3908) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:34:05,849] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 07:34:05,851] {logging_mixin.py:115} INFO - [2022-05-13 07:34:05,851] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:34:05,861] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:34:05,876] {logging_mixin.py:115} INFO - [2022-05-13 07:34:05,876] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 07:34:05,888] {logging_mixin.py:115} INFO - [2022-05-13 07:34:05,888] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 07:34:05,895] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.049 seconds
+[2022-05-13 07:34:36,115] {processor.py:153} INFO - Started process (PID=4123) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:34:36,116] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 07:34:36,117] {logging_mixin.py:115} INFO - [2022-05-13 07:34:36,117] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:34:36,128] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:34:36,144] {logging_mixin.py:115} INFO - [2022-05-13 07:34:36,144] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 07:34:36,158] {logging_mixin.py:115} INFO - [2022-05-13 07:34:36,157] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 07:34:36,164] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.052 seconds
+[2022-05-13 07:35:06,823] {processor.py:153} INFO - Started process (PID=4339) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:35:06,824] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 07:35:06,825] {logging_mixin.py:115} INFO - [2022-05-13 07:35:06,825] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:35:06,837] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:35:06,854] {logging_mixin.py:115} INFO - [2022-05-13 07:35:06,854] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 07:35:06,866] {logging_mixin.py:115} INFO - [2022-05-13 07:35:06,866] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 07:35:06,872] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.052 seconds
+[2022-05-13 07:35:37,697] {processor.py:153} INFO - Started process (PID=4545) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:35:37,698] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 07:35:37,699] {logging_mixin.py:115} INFO - [2022-05-13 07:35:37,699] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:35:37,709] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:35:37,724] {logging_mixin.py:115} INFO - [2022-05-13 07:35:37,724] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 07:35:37,736] {logging_mixin.py:115} INFO - [2022-05-13 07:35:37,736] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 07:35:37,743] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.048 seconds
+[2022-05-13 07:36:08,361] {processor.py:153} INFO - Started process (PID=4760) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:36:08,362] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 07:36:08,363] {logging_mixin.py:115} INFO - [2022-05-13 07:36:08,363] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:36:08,374] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:36:08,390] {logging_mixin.py:115} INFO - [2022-05-13 07:36:08,390] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 07:36:08,402] {logging_mixin.py:115} INFO - [2022-05-13 07:36:08,402] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 07:36:08,408] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.049 seconds
+[2022-05-13 07:36:39,217] {processor.py:153} INFO - Started process (PID=4977) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:36:39,218] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 07:36:39,219] {logging_mixin.py:115} INFO - [2022-05-13 07:36:39,219] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:36:39,231] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:36:39,246] {logging_mixin.py:115} INFO - [2022-05-13 07:36:39,246] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 07:36:39,257] {logging_mixin.py:115} INFO - [2022-05-13 07:36:39,257] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 07:36:39,264] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.049 seconds
+[2022-05-13 07:37:09,945] {processor.py:153} INFO - Started process (PID=5191) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:37:09,946] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 07:37:09,947] {logging_mixin.py:115} INFO - [2022-05-13 07:37:09,947] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:37:09,959] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 07:37:09,975] {logging_mixin.py:115} INFO - [2022-05-13 07:37:09,975] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 07:37:09,989] {logging_mixin.py:115} INFO - [2022-05-13 07:37:09,989] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 07:37:09,996] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.054 seconds
+[2022-05-13 09:38:03,698] {processor.py:153} INFO - Started process (PID=178) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:38:03,699] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 09:38:03,700] {logging_mixin.py:115} INFO - [2022-05-13 09:38:03,700] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:38:03,714] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:38:03,732] {logging_mixin.py:115} INFO - [2022-05-13 09:38:03,732] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 09:38:03,752] {logging_mixin.py:115} INFO - [2022-05-13 09:38:03,751] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 09:38:03,760] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.064 seconds
+[2022-05-13 09:38:33,840] {processor.py:153} INFO - Started process (PID=395) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:38:33,841] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 09:38:33,842] {logging_mixin.py:115} INFO - [2022-05-13 09:38:33,842] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:38:33,852] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:38:33,867] {logging_mixin.py:115} INFO - [2022-05-13 09:38:33,867] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 09:38:33,879] {logging_mixin.py:115} INFO - [2022-05-13 09:38:33,879] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 09:38:33,885] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.047 seconds
+[2022-05-13 09:39:04,591] {processor.py:153} INFO - Started process (PID=610) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:39:04,592] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 09:39:04,593] {logging_mixin.py:115} INFO - [2022-05-13 09:39:04,593] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:39:04,605] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:39:04,620] {logging_mixin.py:115} INFO - [2022-05-13 09:39:04,620] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 09:39:04,634] {logging_mixin.py:115} INFO - [2022-05-13 09:39:04,634] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 09:39:04,641] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.052 seconds
+[2022-05-13 09:39:35,432] {processor.py:153} INFO - Started process (PID=824) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:39:35,434] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 09:39:35,437] {logging_mixin.py:115} INFO - [2022-05-13 09:39:35,437] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:39:35,457] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:39:35,481] {logging_mixin.py:115} INFO - [2022-05-13 09:39:35,480] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 09:39:35,498] {logging_mixin.py:115} INFO - [2022-05-13 09:39:35,498] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 09:39:35,505] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.075 seconds
+[2022-05-13 09:40:06,378] {processor.py:153} INFO - Started process (PID=1032) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:40:06,379] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 09:40:06,380] {logging_mixin.py:115} INFO - [2022-05-13 09:40:06,380] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:40:06,392] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:40:06,411] {logging_mixin.py:115} INFO - [2022-05-13 09:40:06,411] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 09:40:06,425] {logging_mixin.py:115} INFO - [2022-05-13 09:40:06,425] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 09:40:06,432] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.056 seconds
+[2022-05-13 09:40:37,311] {processor.py:153} INFO - Started process (PID=1247) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:40:37,314] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 09:40:37,316] {logging_mixin.py:115} INFO - [2022-05-13 09:40:37,316] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:40:37,338] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:40:37,361] {logging_mixin.py:115} INFO - [2022-05-13 09:40:37,361] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 09:40:37,377] {logging_mixin.py:115} INFO - [2022-05-13 09:40:37,377] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 09:40:37,385] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.077 seconds
+[2022-05-13 09:41:08,141] {processor.py:153} INFO - Started process (PID=1463) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:41:08,142] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 09:41:08,144] {logging_mixin.py:115} INFO - [2022-05-13 09:41:08,144] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:41:08,159] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:41:08,179] {logging_mixin.py:115} INFO - [2022-05-13 09:41:08,179] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 09:41:08,195] {logging_mixin.py:115} INFO - [2022-05-13 09:41:08,195] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 09:41:08,203] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.064 seconds
+[2022-05-13 09:41:38,910] {processor.py:153} INFO - Started process (PID=1678) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:41:38,911] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 09:41:38,912] {logging_mixin.py:115} INFO - [2022-05-13 09:41:38,912] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:41:38,924] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:41:38,940] {logging_mixin.py:115} INFO - [2022-05-13 09:41:38,940] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 09:41:38,955] {logging_mixin.py:115} INFO - [2022-05-13 09:41:38,954] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 09:41:38,961] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.053 seconds
+[2022-05-13 09:42:09,727] {processor.py:153} INFO - Started process (PID=1893) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:42:09,728] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 09:42:09,729] {logging_mixin.py:115} INFO - [2022-05-13 09:42:09,729] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:42:09,739] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:42:09,757] {logging_mixin.py:115} INFO - [2022-05-13 09:42:09,756] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 09:42:09,769] {logging_mixin.py:115} INFO - [2022-05-13 09:42:09,769] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 09:42:09,775] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.050 seconds
+[2022-05-13 09:42:40,510] {processor.py:153} INFO - Started process (PID=2108) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:42:40,511] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 09:42:40,513] {logging_mixin.py:115} INFO - [2022-05-13 09:42:40,512] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:42:40,523] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:42:40,540] {logging_mixin.py:115} INFO - [2022-05-13 09:42:40,540] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 09:42:40,554] {logging_mixin.py:115} INFO - [2022-05-13 09:42:40,554] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 09:42:40,561] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.053 seconds
+[2022-05-13 09:43:11,460] {processor.py:153} INFO - Started process (PID=2322) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:43:11,462] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 09:43:11,463] {logging_mixin.py:115} INFO - [2022-05-13 09:43:11,463] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:43:11,474] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:43:11,491] {logging_mixin.py:115} INFO - [2022-05-13 09:43:11,491] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 09:43:11,505] {logging_mixin.py:115} INFO - [2022-05-13 09:43:11,505] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 09:43:11,513] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.055 seconds
+[2022-05-13 09:43:42,294] {processor.py:153} INFO - Started process (PID=2536) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:43:42,295] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 09:43:42,296] {logging_mixin.py:115} INFO - [2022-05-13 09:43:42,296] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:43:42,308] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:43:42,323] {logging_mixin.py:115} INFO - [2022-05-13 09:43:42,323] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 09:43:42,337] {logging_mixin.py:115} INFO - [2022-05-13 09:43:42,337] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 09:43:42,344] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.052 seconds
+[2022-05-13 09:44:13,064] {processor.py:153} INFO - Started process (PID=2742) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:44:13,065] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 09:44:13,066] {logging_mixin.py:115} INFO - [2022-05-13 09:44:13,066] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:44:13,077] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:44:13,092] {logging_mixin.py:115} INFO - [2022-05-13 09:44:13,092] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 09:44:13,105] {logging_mixin.py:115} INFO - [2022-05-13 09:44:13,105] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 09:44:13,111] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.049 seconds
+[2022-05-13 09:44:43,848] {processor.py:153} INFO - Started process (PID=2958) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:44:43,849] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 09:44:43,850] {logging_mixin.py:115} INFO - [2022-05-13 09:44:43,850] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:44:43,861] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:44:43,876] {logging_mixin.py:115} INFO - [2022-05-13 09:44:43,875] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 09:44:43,887] {logging_mixin.py:115} INFO - [2022-05-13 09:44:43,887] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 09:44:43,892] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.047 seconds
+[2022-05-13 09:45:14,639] {processor.py:153} INFO - Started process (PID=3176) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:45:14,641] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 09:45:14,641] {logging_mixin.py:115} INFO - [2022-05-13 09:45:14,641] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:45:14,652] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:45:14,667] {logging_mixin.py:115} INFO - [2022-05-13 09:45:14,667] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 09:45:14,679] {logging_mixin.py:115} INFO - [2022-05-13 09:45:14,679] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 09:45:14,685] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.048 seconds
+[2022-05-13 09:45:45,495] {processor.py:153} INFO - Started process (PID=3391) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:45:45,496] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 09:45:45,496] {logging_mixin.py:115} INFO - [2022-05-13 09:45:45,496] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:45:45,507] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 09:45:45,535] {logging_mixin.py:115} INFO - [2022-05-13 09:45:45,535] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 09:45:45,552] {logging_mixin.py:115} INFO - [2022-05-13 09:45:45,552] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 09:45:45,564] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.072 seconds
+[2022-05-13 10:27:22,015] {processor.py:153} INFO - Started process (PID=178) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:27:22,017] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:27:22,018] {logging_mixin.py:115} INFO - [2022-05-13 10:27:22,018] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:27:22,032] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:27:22,049] {logging_mixin.py:115} INFO - [2022-05-13 10:27:22,048] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:27:22,063] {logging_mixin.py:115} INFO - [2022-05-13 10:27:22,063] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:27:22,075] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.062 seconds
+[2022-05-13 10:27:52,980] {processor.py:153} INFO - Started process (PID=394) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:27:52,981] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:27:52,982] {logging_mixin.py:115} INFO - [2022-05-13 10:27:52,982] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:27:52,992] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:27:53,007] {logging_mixin.py:115} INFO - [2022-05-13 10:27:53,007] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:27:53,019] {logging_mixin.py:115} INFO - [2022-05-13 10:27:53,019] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:27:53,025] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.048 seconds
+[2022-05-13 10:28:23,848] {processor.py:153} INFO - Started process (PID=618) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:28:23,849] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:28:23,850] {logging_mixin.py:115} INFO - [2022-05-13 10:28:23,850] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:28:23,861] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:28:23,876] {logging_mixin.py:115} INFO - [2022-05-13 10:28:23,876] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:28:23,888] {logging_mixin.py:115} INFO - [2022-05-13 10:28:23,888] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:28:23,895] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.049 seconds
+[2022-05-13 10:28:54,552] {processor.py:153} INFO - Started process (PID=833) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:28:54,570] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:28:54,571] {logging_mixin.py:115} INFO - [2022-05-13 10:28:54,571] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:28:54,584] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:28:54,600] {logging_mixin.py:115} INFO - [2022-05-13 10:28:54,600] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:28:54,614] {logging_mixin.py:115} INFO - [2022-05-13 10:28:54,614] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:28:54,626] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.076 seconds
+[2022-05-13 10:29:25,494] {processor.py:153} INFO - Started process (PID=1057) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:29:25,496] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:29:25,497] {logging_mixin.py:115} INFO - [2022-05-13 10:29:25,497] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:29:25,514] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:29:25,537] {logging_mixin.py:115} INFO - [2022-05-13 10:29:25,537] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:29:25,553] {logging_mixin.py:115} INFO - [2022-05-13 10:29:25,552] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:29:25,568] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.078 seconds
+[2022-05-13 10:29:55,761] {processor.py:153} INFO - Started process (PID=1265) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:29:55,763] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:29:55,764] {logging_mixin.py:115} INFO - [2022-05-13 10:29:55,764] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:29:55,784] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:29:55,812] {logging_mixin.py:115} INFO - [2022-05-13 10:29:55,812] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:29:55,829] {logging_mixin.py:115} INFO - [2022-05-13 10:29:55,829] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:29:55,839] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.081 seconds
+[2022-05-13 10:30:25,957] {processor.py:153} INFO - Started process (PID=1480) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:30:25,958] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:30:25,959] {logging_mixin.py:115} INFO - [2022-05-13 10:30:25,959] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:30:25,971] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:30:25,987] {logging_mixin.py:115} INFO - [2022-05-13 10:30:25,987] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:30:25,999] {logging_mixin.py:115} INFO - [2022-05-13 10:30:25,999] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:30:26,005] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.050 seconds
+[2022-05-13 10:30:56,696] {processor.py:153} INFO - Started process (PID=1695) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:30:56,700] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:30:56,701] {logging_mixin.py:115} INFO - [2022-05-13 10:30:56,701] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:30:56,713] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:30:56,729] {logging_mixin.py:115} INFO - [2022-05-13 10:30:56,729] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:30:56,741] {logging_mixin.py:115} INFO - [2022-05-13 10:30:56,741] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:30:56,747] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.054 seconds
+[2022-05-13 10:31:27,374] {processor.py:153} INFO - Started process (PID=1909) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:31:27,375] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:31:27,376] {logging_mixin.py:115} INFO - [2022-05-13 10:31:27,376] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:31:27,386] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:31:27,401] {logging_mixin.py:115} INFO - [2022-05-13 10:31:27,401] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:31:27,413] {logging_mixin.py:115} INFO - [2022-05-13 10:31:27,413] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:31:27,420] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.047 seconds
+[2022-05-13 10:31:58,024] {processor.py:153} INFO - Started process (PID=2124) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:31:58,026] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:31:58,027] {logging_mixin.py:115} INFO - [2022-05-13 10:31:58,027] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:31:58,037] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:31:58,053] {logging_mixin.py:115} INFO - [2022-05-13 10:31:58,053] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:31:58,065] {logging_mixin.py:115} INFO - [2022-05-13 10:31:58,065] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:31:58,071] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.049 seconds
+[2022-05-13 10:32:28,815] {processor.py:153} INFO - Started process (PID=2339) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:32:28,817] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:32:28,818] {logging_mixin.py:115} INFO - [2022-05-13 10:32:28,818] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:32:28,829] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:32:28,845] {logging_mixin.py:115} INFO - [2022-05-13 10:32:28,845] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:32:28,861] {logging_mixin.py:115} INFO - [2022-05-13 10:32:28,860] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:32:28,868] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.055 seconds
+[2022-05-13 10:32:59,713] {processor.py:153} INFO - Started process (PID=2546) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:32:59,715] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:32:59,716] {logging_mixin.py:115} INFO - [2022-05-13 10:32:59,715] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:32:59,726] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:32:59,742] {logging_mixin.py:115} INFO - [2022-05-13 10:32:59,742] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:32:59,756] {logging_mixin.py:115} INFO - [2022-05-13 10:32:59,756] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:32:59,763] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.053 seconds
+[2022-05-13 10:33:30,363] {processor.py:153} INFO - Started process (PID=2763) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:33:30,366] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:33:30,368] {logging_mixin.py:115} INFO - [2022-05-13 10:33:30,368] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:33:30,379] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:33:30,398] {logging_mixin.py:115} INFO - [2022-05-13 10:33:30,398] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:33:30,417] {logging_mixin.py:115} INFO - [2022-05-13 10:33:30,417] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:33:30,428] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.070 seconds
+[2022-05-13 10:34:01,232] {processor.py:153} INFO - Started process (PID=2979) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:34:01,233] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:34:01,234] {logging_mixin.py:115} INFO - [2022-05-13 10:34:01,234] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:34:01,246] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:34:01,263] {logging_mixin.py:115} INFO - [2022-05-13 10:34:01,263] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:34:01,277] {logging_mixin.py:115} INFO - [2022-05-13 10:34:01,277] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:34:01,284] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.054 seconds
+[2022-05-13 10:34:32,052] {processor.py:153} INFO - Started process (PID=3196) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:34:32,054] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:34:32,055] {logging_mixin.py:115} INFO - [2022-05-13 10:34:32,055] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:34:32,068] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:34:32,083] {logging_mixin.py:115} INFO - [2022-05-13 10:34:32,083] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:34:32,095] {logging_mixin.py:115} INFO - [2022-05-13 10:34:32,095] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:34:32,101] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.052 seconds
+[2022-05-13 10:35:03,049] {processor.py:153} INFO - Started process (PID=3411) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:35:03,050] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:35:03,050] {logging_mixin.py:115} INFO - [2022-05-13 10:35:03,050] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:35:03,061] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:35:03,077] {logging_mixin.py:115} INFO - [2022-05-13 10:35:03,077] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:35:03,089] {logging_mixin.py:115} INFO - [2022-05-13 10:35:03,089] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:35:03,095] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.048 seconds
+[2022-05-13 10:35:33,999] {processor.py:153} INFO - Started process (PID=3626) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:35:34,003] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:35:34,004] {logging_mixin.py:115} INFO - [2022-05-13 10:35:34,004] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:35:34,016] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:35:34,033] {logging_mixin.py:115} INFO - [2022-05-13 10:35:34,033] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:35:34,045] {logging_mixin.py:115} INFO - [2022-05-13 10:35:34,045] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:35:34,053] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.056 seconds
+[2022-05-13 10:36:04,810] {processor.py:153} INFO - Started process (PID=3843) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:36:04,812] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:36:04,813] {logging_mixin.py:115} INFO - [2022-05-13 10:36:04,813] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:36:04,829] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:36:04,854] {logging_mixin.py:115} INFO - [2022-05-13 10:36:04,854] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:36:04,873] {logging_mixin.py:115} INFO - [2022-05-13 10:36:04,873] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:36:04,884] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.077 seconds
+[2022-05-13 10:36:35,577] {processor.py:153} INFO - Started process (PID=4064) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:36:35,578] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:36:35,579] {logging_mixin.py:115} INFO - [2022-05-13 10:36:35,579] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:36:35,589] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:36:35,609] {logging_mixin.py:115} INFO - [2022-05-13 10:36:35,609] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:36:35,648] {logging_mixin.py:115} INFO - [2022-05-13 10:36:35,648] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:36:35,660] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.086 seconds
+[2022-05-13 10:37:06,507] {processor.py:153} INFO - Started process (PID=4285) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:37:06,509] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:37:06,511] {logging_mixin.py:115} INFO - [2022-05-13 10:37:06,511] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:37:06,527] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:37:06,550] {logging_mixin.py:115} INFO - [2022-05-13 10:37:06,549] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:37:06,568] {logging_mixin.py:115} INFO - [2022-05-13 10:37:06,568] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:37:06,579] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.076 seconds
+[2022-05-13 10:37:36,683] {processor.py:153} INFO - Started process (PID=4502) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:37:36,685] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:37:36,686] {logging_mixin.py:115} INFO - [2022-05-13 10:37:36,686] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:37:36,703] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:37:36,721] {logging_mixin.py:115} INFO - [2022-05-13 10:37:36,721] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:37:36,734] {logging_mixin.py:115} INFO - [2022-05-13 10:37:36,734] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:37:36,742] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.063 seconds
+[2022-05-13 10:38:07,595] {processor.py:153} INFO - Started process (PID=4717) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:38:07,597] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:38:07,598] {logging_mixin.py:115} INFO - [2022-05-13 10:38:07,598] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:38:07,615] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:38:07,633] {logging_mixin.py:115} INFO - [2022-05-13 10:38:07,633] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:38:07,646] {logging_mixin.py:115} INFO - [2022-05-13 10:38:07,646] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:38:07,652] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.061 seconds
+[2022-05-13 10:38:38,538] {processor.py:153} INFO - Started process (PID=4939) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:38:38,540] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:38:38,542] {logging_mixin.py:115} INFO - [2022-05-13 10:38:38,542] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:38:38,559] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:38:38,577] {logging_mixin.py:115} INFO - [2022-05-13 10:38:38,577] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:38:38,589] {logging_mixin.py:115} INFO - [2022-05-13 10:38:38,589] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:38:38,597] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.063 seconds
+[2022-05-13 10:39:09,324] {processor.py:153} INFO - Started process (PID=5144) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:39:09,326] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:39:09,328] {logging_mixin.py:115} INFO - [2022-05-13 10:39:09,327] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:39:09,346] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:39:09,370] {logging_mixin.py:115} INFO - [2022-05-13 10:39:09,369] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:39:09,386] {logging_mixin.py:115} INFO - [2022-05-13 10:39:09,386] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:39:09,393] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.074 seconds
+[2022-05-13 10:39:40,349] {processor.py:153} INFO - Started process (PID=5362) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:39:40,351] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:39:40,353] {logging_mixin.py:115} INFO - [2022-05-13 10:39:40,353] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:39:40,369] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:39:40,386] {logging_mixin.py:115} INFO - [2022-05-13 10:39:40,386] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:39:40,400] {logging_mixin.py:115} INFO - [2022-05-13 10:39:40,400] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:39:40,408] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.065 seconds
+[2022-05-13 10:40:11,128] {processor.py:153} INFO - Started process (PID=5576) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:40:11,130] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:40:11,131] {logging_mixin.py:115} INFO - [2022-05-13 10:40:11,131] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:40:11,147] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:40:11,168] {logging_mixin.py:115} INFO - [2022-05-13 10:40:11,168] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:40:11,184] {logging_mixin.py:115} INFO - [2022-05-13 10:40:11,184] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:40:11,194] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.068 seconds
+[2022-05-13 10:40:41,905] {processor.py:153} INFO - Started process (PID=5794) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:40:41,907] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:40:41,908] {logging_mixin.py:115} INFO - [2022-05-13 10:40:41,908] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:40:41,923] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:40:41,939] {logging_mixin.py:115} INFO - [2022-05-13 10:40:41,939] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:40:41,951] {logging_mixin.py:115} INFO - [2022-05-13 10:40:41,951] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:40:41,958] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.057 seconds
+[2022-05-13 10:41:12,616] {processor.py:153} INFO - Started process (PID=6011) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:41:12,619] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:41:12,621] {logging_mixin.py:115} INFO - [2022-05-13 10:41:12,620] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:41:12,640] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:41:12,661] {logging_mixin.py:115} INFO - [2022-05-13 10:41:12,661] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:41:12,675] {logging_mixin.py:115} INFO - [2022-05-13 10:41:12,675] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:41:12,684] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.072 seconds
+[2022-05-13 10:41:43,409] {processor.py:153} INFO - Started process (PID=6228) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:41:43,411] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:41:43,412] {logging_mixin.py:115} INFO - [2022-05-13 10:41:43,412] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:41:43,427] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:41:43,445] {logging_mixin.py:115} INFO - [2022-05-13 10:41:43,445] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:41:43,458] {logging_mixin.py:115} INFO - [2022-05-13 10:41:43,458] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:41:43,465] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.060 seconds
+[2022-05-13 10:42:14,214] {processor.py:153} INFO - Started process (PID=6442) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:42:14,216] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:42:14,218] {logging_mixin.py:115} INFO - [2022-05-13 10:42:14,218] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:42:14,235] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:42:14,255] {logging_mixin.py:115} INFO - [2022-05-13 10:42:14,255] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:42:14,276] {logging_mixin.py:115} INFO - [2022-05-13 10:42:14,276] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:42:14,304] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.094 seconds
+[2022-05-13 10:42:44,989] {processor.py:153} INFO - Started process (PID=6660) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:42:44,990] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:42:44,992] {logging_mixin.py:115} INFO - [2022-05-13 10:42:44,991] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:42:45,002] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:42:45,017] {logging_mixin.py:115} INFO - [2022-05-13 10:42:45,017] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:42:45,038] {logging_mixin.py:115} INFO - [2022-05-13 10:42:45,038] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:42:45,046] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.060 seconds
+[2022-05-13 10:43:15,752] {processor.py:153} INFO - Started process (PID=6866) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:43:15,754] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:43:15,756] {logging_mixin.py:115} INFO - [2022-05-13 10:43:15,755] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:43:15,771] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:43:15,790] {logging_mixin.py:115} INFO - [2022-05-13 10:43:15,790] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:43:15,803] {logging_mixin.py:115} INFO - [2022-05-13 10:43:15,803] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:43:15,811] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.064 seconds
+[2022-05-13 10:43:46,474] {processor.py:153} INFO - Started process (PID=7080) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:43:46,476] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:43:46,478] {logging_mixin.py:115} INFO - [2022-05-13 10:43:46,478] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:43:46,494] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:43:46,513] {logging_mixin.py:115} INFO - [2022-05-13 10:43:46,513] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:43:46,527] {logging_mixin.py:115} INFO - [2022-05-13 10:43:46,527] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:43:46,537] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.067 seconds
+[2022-05-13 10:44:17,303] {processor.py:153} INFO - Started process (PID=7297) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:44:17,306] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:44:17,312] {logging_mixin.py:115} INFO - [2022-05-13 10:44:17,312] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:44:17,333] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:44:17,353] {logging_mixin.py:115} INFO - [2022-05-13 10:44:17,353] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:44:17,368] {logging_mixin.py:115} INFO - [2022-05-13 10:44:17,368] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:44:17,376] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.078 seconds
+[2022-05-13 10:44:48,029] {processor.py:153} INFO - Started process (PID=7513) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:44:48,031] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:44:48,032] {logging_mixin.py:115} INFO - [2022-05-13 10:44:48,032] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:44:48,046] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:44:48,063] {logging_mixin.py:115} INFO - [2022-05-13 10:44:48,063] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:44:48,077] {logging_mixin.py:115} INFO - [2022-05-13 10:44:48,077] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:44:48,085] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.058 seconds
+[2022-05-13 10:45:18,695] {processor.py:153} INFO - Started process (PID=7731) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:45:18,697] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:45:18,698] {logging_mixin.py:115} INFO - [2022-05-13 10:45:18,698] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:45:18,713] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:45:18,730] {logging_mixin.py:115} INFO - [2022-05-13 10:45:18,730] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:45:18,742] {logging_mixin.py:115} INFO - [2022-05-13 10:45:18,742] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:45:18,749] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.058 seconds
+[2022-05-13 10:45:49,309] {processor.py:153} INFO - Started process (PID=7946) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:45:49,317] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:45:49,319] {logging_mixin.py:115} INFO - [2022-05-13 10:45:49,319] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:45:49,337] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:45:49,355] {logging_mixin.py:115} INFO - [2022-05-13 10:45:49,355] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:45:49,368] {logging_mixin.py:115} INFO - [2022-05-13 10:45:49,368] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:45:49,376] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.070 seconds
+[2022-05-13 10:46:20,053] {processor.py:153} INFO - Started process (PID=8159) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:46:20,054] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:46:20,056] {logging_mixin.py:115} INFO - [2022-05-13 10:46:20,056] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:46:20,069] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:46:20,089] {logging_mixin.py:115} INFO - [2022-05-13 10:46:20,089] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:46:20,105] {logging_mixin.py:115} INFO - [2022-05-13 10:46:20,105] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:46:20,114] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.063 seconds
+[2022-05-13 10:46:50,858] {processor.py:153} INFO - Started process (PID=8366) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:46:50,861] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:46:50,863] {logging_mixin.py:115} INFO - [2022-05-13 10:46:50,863] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:46:50,887] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:46:50,904] {logging_mixin.py:115} INFO - [2022-05-13 10:46:50,904] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:46:50,917] {logging_mixin.py:115} INFO - [2022-05-13 10:46:50,917] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:46:50,925] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.071 seconds
+[2022-05-13 10:47:21,656] {processor.py:153} INFO - Started process (PID=8580) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:47:21,658] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:47:21,660] {logging_mixin.py:115} INFO - [2022-05-13 10:47:21,660] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:47:21,677] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:47:21,694] {logging_mixin.py:115} INFO - [2022-05-13 10:47:21,693] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:47:21,707] {logging_mixin.py:115} INFO - [2022-05-13 10:47:21,707] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:47:21,715] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.062 seconds
+[2022-05-13 10:47:52,598] {processor.py:153} INFO - Started process (PID=8794) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:47:52,601] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:47:52,602] {logging_mixin.py:115} INFO - [2022-05-13 10:47:52,602] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:47:52,620] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:47:52,636] {logging_mixin.py:115} INFO - [2022-05-13 10:47:52,636] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:47:52,649] {logging_mixin.py:115} INFO - [2022-05-13 10:47:52,649] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:47:52,656] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.062 seconds
+[2022-05-13 10:48:23,304] {processor.py:153} INFO - Started process (PID=9009) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:48:23,306] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:48:23,308] {logging_mixin.py:115} INFO - [2022-05-13 10:48:23,308] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:48:23,322] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:48:23,339] {logging_mixin.py:115} INFO - [2022-05-13 10:48:23,339] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:48:23,353] {logging_mixin.py:115} INFO - [2022-05-13 10:48:23,353] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:48:23,361] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.062 seconds
+[2022-05-13 10:48:54,021] {processor.py:153} INFO - Started process (PID=9225) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:48:54,023] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:48:54,025] {logging_mixin.py:115} INFO - [2022-05-13 10:48:54,025] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:48:54,046] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:48:54,069] {logging_mixin.py:115} INFO - [2022-05-13 10:48:54,068] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:48:54,084] {logging_mixin.py:115} INFO - [2022-05-13 10:48:54,084] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:48:54,093] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.076 seconds
+[2022-05-13 10:49:24,913] {processor.py:153} INFO - Started process (PID=9442) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:49:24,916] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:49:24,918] {logging_mixin.py:115} INFO - [2022-05-13 10:49:24,918] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:49:24,941] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:49:24,965] {logging_mixin.py:115} INFO - [2022-05-13 10:49:24,965] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:49:24,982] {logging_mixin.py:115} INFO - [2022-05-13 10:49:24,982] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:49:24,992] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.088 seconds
+[2022-05-13 10:49:55,690] {processor.py:153} INFO - Started process (PID=9665) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:49:55,695] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:49:55,700] {logging_mixin.py:115} INFO - [2022-05-13 10:49:55,700] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:49:55,722] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:49:55,763] {logging_mixin.py:115} INFO - [2022-05-13 10:49:55,763] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:49:55,793] {logging_mixin.py:115} INFO - [2022-05-13 10:49:55,793] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:49:55,804] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.119 seconds
+[2022-05-13 10:50:26,486] {processor.py:153} INFO - Started process (PID=9879) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:50:26,488] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:50:26,489] {logging_mixin.py:115} INFO - [2022-05-13 10:50:26,489] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:50:26,502] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:50:26,539] {logging_mixin.py:115} INFO - [2022-05-13 10:50:26,539] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:50:26,562] {logging_mixin.py:115} INFO - [2022-05-13 10:50:26,562] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:50:26,579] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.096 seconds
+[2022-05-13 10:50:56,617] {processor.py:153} INFO - Started process (PID=10093) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:50:56,619] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:50:56,622] {logging_mixin.py:115} INFO - [2022-05-13 10:50:56,622] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:50:56,637] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:50:56,660] {logging_mixin.py:115} INFO - [2022-05-13 10:50:56,660] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:50:56,676] {logging_mixin.py:115} INFO - [2022-05-13 10:50:56,676] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:50:56,690] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.076 seconds
+[2022-05-13 10:51:26,886] {processor.py:153} INFO - Started process (PID=10309) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:51:26,888] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:51:26,890] {logging_mixin.py:115} INFO - [2022-05-13 10:51:26,890] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:51:26,913] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:51:26,935] {logging_mixin.py:115} INFO - [2022-05-13 10:51:26,935] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:51:26,953] {logging_mixin.py:115} INFO - [2022-05-13 10:51:26,953] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:51:26,962] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.079 seconds
+[2022-05-13 10:54:43,307] {processor.py:153} INFO - Started process (PID=180) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:54:43,308] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:54:43,309] {logging_mixin.py:115} INFO - [2022-05-13 10:54:43,309] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:54:43,324] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:54:43,341] {logging_mixin.py:115} INFO - [2022-05-13 10:54:43,341] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:54:43,356] {logging_mixin.py:115} INFO - [2022-05-13 10:54:43,356] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:54:43,363] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.059 seconds
+[2022-05-13 10:55:14,390] {processor.py:153} INFO - Started process (PID=410) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:55:14,391] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:55:14,392] {logging_mixin.py:115} INFO - [2022-05-13 10:55:14,392] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:55:14,405] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:55:14,421] {logging_mixin.py:115} INFO - [2022-05-13 10:55:14,421] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:55:14,436] {logging_mixin.py:115} INFO - [2022-05-13 10:55:14,436] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:55:14,446] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.059 seconds
+[2022-05-13 10:55:45,244] {processor.py:153} INFO - Started process (PID=632) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:55:45,246] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:55:45,248] {logging_mixin.py:115} INFO - [2022-05-13 10:55:45,248] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:55:45,259] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:55:45,274] {logging_mixin.py:115} INFO - [2022-05-13 10:55:45,274] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:55:45,288] {logging_mixin.py:115} INFO - [2022-05-13 10:55:45,288] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:55:45,295] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.054 seconds
+[2022-05-13 10:56:15,989] {processor.py:153} INFO - Started process (PID=855) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:56:15,990] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:56:15,991] {logging_mixin.py:115} INFO - [2022-05-13 10:56:15,991] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:56:16,009] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:56:16,032] {logging_mixin.py:115} INFO - [2022-05-13 10:56:16,032] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:56:16,052] {logging_mixin.py:115} INFO - [2022-05-13 10:56:16,052] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:56:16,062] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.075 seconds
+[2022-05-13 10:56:46,159] {processor.py:153} INFO - Started process (PID=1064) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:56:46,160] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:56:46,161] {logging_mixin.py:115} INFO - [2022-05-13 10:56:46,161] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:56:46,172] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:56:46,188] {logging_mixin.py:115} INFO - [2022-05-13 10:56:46,187] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:56:46,201] {logging_mixin.py:115} INFO - [2022-05-13 10:56:46,201] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:56:46,215] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.058 seconds
+[2022-05-13 10:57:17,073] {processor.py:153} INFO - Started process (PID=1284) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:57:17,075] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:57:17,076] {logging_mixin.py:115} INFO - [2022-05-13 10:57:17,076] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:57:17,088] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:57:17,107] {logging_mixin.py:115} INFO - [2022-05-13 10:57:17,106] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:57:17,119] {logging_mixin.py:115} INFO - [2022-05-13 10:57:17,119] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:57:17,127] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.058 seconds
+[2022-05-13 10:57:45,796] {processor.py:153} INFO - Started process (PID=1491) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:57:45,798] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:57:45,800] {logging_mixin.py:115} INFO - [2022-05-13 10:57:45,800] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:57:45,853] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:57:45,914] {logging_mixin.py:115} INFO - [2022-05-13 10:57:45,914] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:57:45,933] {logging_mixin.py:115} INFO - [2022-05-13 10:57:45,933] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:57:45,948] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.158 seconds
+[2022-05-13 10:58:16,819] {processor.py:153} INFO - Started process (PID=1720) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:58:16,821] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:58:16,823] {logging_mixin.py:115} INFO - [2022-05-13 10:58:16,823] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:58:16,846] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:58:16,863] {logging_mixin.py:115} INFO - [2022-05-13 10:58:16,863] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:58:16,881] {logging_mixin.py:115} INFO - [2022-05-13 10:58:16,881] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:58:16,890] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.081 seconds
+[2022-05-13 10:58:47,697] {processor.py:153} INFO - Started process (PID=1941) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:58:47,700] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:58:47,703] {logging_mixin.py:115} INFO - [2022-05-13 10:58:47,703] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:58:47,722] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:58:47,742] {logging_mixin.py:115} INFO - [2022-05-13 10:58:47,741] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:58:47,755] {logging_mixin.py:115} INFO - [2022-05-13 10:58:47,755] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:58:47,763] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.071 seconds
+[2022-05-13 10:59:18,527] {processor.py:153} INFO - Started process (PID=2162) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:59:18,530] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:59:18,532] {logging_mixin.py:115} INFO - [2022-05-13 10:59:18,531] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:59:18,555] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:59:18,586] {logging_mixin.py:115} INFO - [2022-05-13 10:59:18,586] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:59:18,622] {logging_mixin.py:115} INFO - [2022-05-13 10:59:18,622] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:59:18,637] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.114 seconds
+[2022-05-13 10:59:48,774] {processor.py:153} INFO - Started process (PID=2383) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:59:48,777] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 10:59:48,779] {logging_mixin.py:115} INFO - [2022-05-13 10:59:48,779] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:59:48,801] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 10:59:48,823] {logging_mixin.py:115} INFO - [2022-05-13 10:59:48,823] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 10:59:48,841] {logging_mixin.py:115} INFO - [2022-05-13 10:59:48,841] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 10:59:48,850] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.081 seconds
+[2022-05-13 11:00:18,946] {processor.py:153} INFO - Started process (PID=2603) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 11:00:18,948] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 11:00:18,950] {logging_mixin.py:115} INFO - [2022-05-13 11:00:18,950] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 11:00:18,974] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 11:00:18,998] {logging_mixin.py:115} INFO - [2022-05-13 11:00:18,998] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 11:00:19,014] {logging_mixin.py:115} INFO - [2022-05-13 11:00:19,014] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 11:00:19,023] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.085 seconds
+[2022-05-13 11:00:49,941] {processor.py:153} INFO - Started process (PID=2823) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 11:00:49,944] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 11:00:49,946] {logging_mixin.py:115} INFO - [2022-05-13 11:00:49,946] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 11:00:49,966] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 11:00:49,984] {logging_mixin.py:115} INFO - [2022-05-13 11:00:49,984] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 11:00:49,998] {logging_mixin.py:115} INFO - [2022-05-13 11:00:49,998] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 11:00:50,006] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.070 seconds
+[2022-05-13 11:01:20,677] {processor.py:153} INFO - Started process (PID=3045) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 11:01:20,680] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 11:01:20,682] {logging_mixin.py:115} INFO - [2022-05-13 11:01:20,682] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 11:01:20,706] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 11:01:20,728] {logging_mixin.py:115} INFO - [2022-05-13 11:01:20,728] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 11:01:20,744] {logging_mixin.py:115} INFO - [2022-05-13 11:01:20,744] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 11:01:20,751] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.080 seconds
+[2022-05-13 11:01:51,566] {processor.py:153} INFO - Started process (PID=3268) to work on /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 11:01:51,568] {processor.py:641} INFO - Processing file /opt/airflow/dags/stop_live_stream_dags.py for tasks to queue
+[2022-05-13 11:01:51,570] {logging_mixin.py:115} INFO - [2022-05-13 11:01:51,570] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 11:01:51,592] {processor.py:651} INFO - DAG(s) dict_keys(['stop_live_stream_Dag']) retrieved from /opt/airflow/dags/stop_live_stream_dags.py
+[2022-05-13 11:01:51,612] {logging_mixin.py:115} INFO - [2022-05-13 11:01:51,612] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-13 11:01:51,627] {logging_mixin.py:115} INFO - [2022-05-13 11:01:51,627] {dag.py:2919} INFO - Setting next_dagrun for stop_live_stream_Dag to 2022-05-12T18:00:00+00:00, run_after=2022-05-13T18:00:00+00:00
+[2022-05-13 11:01:51,635] {processor.py:161} INFO - Processing /opt/airflow/dags/stop_live_stream_dags.py took 0.074 seconds

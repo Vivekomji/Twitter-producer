@@ -1,0 +1,14 @@
+*.ini
+
+.idea
+
+.DS_Store
+
+.pyc
+
+*.key
+
+secret.key
+
+.ipynb_checkpoints
+
